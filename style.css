@@ -10,8 +10,11 @@ header{
 header ul {
     list-style: none;
 }
-section img{
+div img{
     width: 200px;
     height: auto;
     border-radius: 10px;
+}
+.subtitulo {
+    text-align: center;
 }
