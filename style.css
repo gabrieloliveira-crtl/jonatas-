@@ -1,0 +1,17 @@
+header img{
+    width: 90px;
+    height: auto;
+    display: flex;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+header ul {
+    list-style: none;
+}
+section img{
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
