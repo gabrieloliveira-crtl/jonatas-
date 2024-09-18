@@ -18,3 +18,10 @@ div img{
 .subtitulo {
     text-align: center;
 }
+section p{
+    font-size: 20px;
+}
+section div{
+    display: flex;
+
+}
